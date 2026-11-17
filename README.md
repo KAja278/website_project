@@ -22,4 +22,4 @@ Otwórz `index.html` w przeglądarce.
 
 ## Autor
 
-https://github.com/KAja278
+Kaja Szewczyk
